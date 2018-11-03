@@ -3,7 +3,7 @@ What is this project supposed to do?
 Social networking site where people communicate in short messages, similar to the likes of Facebook and Twitter. 
 When posting, users send short messages to anyone who has friended them.
 Users can join with a free account and user name. Users then send broadcasts daily, or even hourly. 
-Users follow other interesting accounts creates to view their newsfeed. 
+Users follow other interesting accounts to view their newsfeed. 
 There is a date on posts, with new posts appearing at the top, pushing the older ones down.
 There is a search bar to find the site for other users and interesting posts.
 People who have viewed your post can like the post or comment on the post.
